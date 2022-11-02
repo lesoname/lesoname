@@ -8,20 +8,18 @@
   
 
 
-  
-<div align="center">
-🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  
+- 🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  
   
 
-🌱 I’m currently learning Ruby on Rails and Vue  
+- 🌱 I’m currently learning Ruby on Rails and Vue  
   
 
-❓ Ask me about anything related to Ruby and related technologies  
+- ❓ Ask me about anything related to Ruby and related technologies  
   
-</div>
+
 <br/>  
 
-
+<div align="center">  
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -59,7 +57,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table></div>
 
 <br/>  
 
