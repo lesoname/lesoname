@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leson/leson/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lesoname/lesoname/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -100,4 +100,3 @@
 <p align="center">___________________________________</p>
 
 ###
-Profile Readme Generator
