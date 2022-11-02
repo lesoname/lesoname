@@ -10,13 +10,13 @@
 
   
 <div align="center">
-- 🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  
+🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  
   
 
-- 🌱 I’m currently learning Ruby on Rails and Vue  
+🌱 I’m currently learning Ruby on Rails and Vue  
   
 
-- ❓ Ask me about anything related to Ruby and related technologies  
+❓ Ask me about anything related to Ruby and related technologies  
   
 </div>
 <br/>  
