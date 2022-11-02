@@ -1,9 +1,13 @@
+### <div align="center">
+  <h1> Hey! I'm Leonardo Medeiros.</h1>
+</div>  
+
 <div align="center">
 <img src="https://s4.gifyu.com/images/ezgif-3-bd469a02b8.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Hey! I'm Leonardo Medeiros. </div>  
+
   
 
 - 🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  
