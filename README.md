@@ -6,7 +6,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  <br>  <br>🌱 I’m currently learning Ruby on Rails and Vue  <br> <br>❓ Ask me about anything related to Ruby and related technologies  <br>  
+🖥️ I'm developing open source projects in [Ruby Based - Open Source Organization](https://github.com/Ruby-Based)  <br>  <br>🌱 I’m currently learning Ruby on Rails and Vue  <br> <br>❓ Ask me about anything related to Ruby and related technologies  <br>  
 
 
 ## 🌐 Socials:
