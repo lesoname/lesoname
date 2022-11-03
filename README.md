@@ -1,4 +1,4 @@
-<h1> Hey! I'm Leonardo Medeiros.</h1>
+<h1> Hey! I'm Leonardo Medeiros 🤘</h1>
 
 <div>
 <img src="https://media.tenor.com/images/7195dbf52162f52d37e86cb119601a23/tenor.gif" align="center" style="width: 100%" />
