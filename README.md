@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lesoname&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lesoname&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)
 
 ---
