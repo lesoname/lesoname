@@ -1,8 +1,6 @@
-### <div align="center">
-  <h1 align="center"> Hey! I'm Leonardo Medeiros.</h1>
-</div>  
+<h1> Hey! I'm Leonardo Medeiros.</h1>
 
-<div align="center">
+<div>
 <img src="https://s4.gifyu.com/images/ezgif-3-bd469a02b8.gif" align="center" style="width: 100%" />
 </div>  
   
