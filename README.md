@@ -6,7 +6,7 @@
   
 
 # 🤵🏽 About Me:
-🖥️ I'm developing open source projects in [Ruby Based](https://github.com/Ruby-Based)  <br>  <br>🌱 I’m currently learning Ruby on Rails and Vue.js  <br> <br>❓ Ask me about anything related to Ruby and related technologies  <br>  
+🖥️ I'm developing amateur open source projects in [Ruby Based](https://github.com/Ruby-Based)  <br>  <br>🌱 I’m currently learning Ruby on Rails and Vue.js  <br> <br>❓ Ask me about anything related to Ruby and related technologies  <br>  
 
 
 # 🌐 Socials:
